@@ -24,12 +24,14 @@ The square heat map shows that many trips are done 6-10 AM (M-F) while weekends 
 
 ### Visualizations:
 
-All analysis mentioned above can be found on the [Tableau Public storyboard](https://public.tableau.com/shared/6JZWQJPQW?:display_count=n&:origin=viz_share_link) . 
+All analysis mentioned above can be found on the [Tableau Public Storyboard](https://public.tableau.com/shared/6JZWQJPQW?:display_count=n&:origin=viz_share_link) . 
 
 ## Summary
 
 High user activity of the Citi Bike Share program is seen near popular tourist attractions in New York City during the month of August 2019. A majority of bike trips were in Manhattan Island, taken by male users during the morning and evening hours. A main reason for this could be that many New Yorkers are using the Citi Bike Program as an alternative to public transportation.
 
 ### Additional Suggestions
-    - Comparing other months of the year would be very beneficial - high tourism vs. off season.
-    - It would also be nice to see trends across different weather conditions - especially since Des Moines is considering the implementation of this program.
+
+    * Comparing other months of the year would be very beneficial - high tourism vs. off season.
+    * It would also be nice to see trends across different weather conditions  
+       especially since Des Moines is considering the implementation of this program.
