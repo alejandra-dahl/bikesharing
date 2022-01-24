@@ -22,7 +22,13 @@ To start there were a total of 2,344,224 Citi Bike Trips with top starting locat
 
 Peak hours seem to range from 7 AM to 9 PM, with 5-6 PM being the most popular. The average trip duraction was 20 minutes or less (visual shown in "Checkout Times for Users"). It was interesting to see that Males had more trips done that Females (15 - 40 min). 
 
+![image](https://user-images.githubusercontent.com/90485451/150884048-8b58655b-ed1f-46fd-b58e-089d85bd8ea6.png)
+
+
 The square heat map shows that many trips are done 6-10 AM (M-F) while weekends are scattered between 9-7 PM. Males can also be seen taking more trips during those hours than Females. There are defintely a higher number of trips during the workweek ("User Trips by Gender by Weekday"). 
+
+![image](https://user-images.githubusercontent.com/90485451/150884091-48c21a96-a3a8-4c3c-8cb6-37210f64d948.png)
+
 
 ### Visualizations:
 
